@@ -34,3 +34,5 @@ https://teamsparta.notion.site/f62f5a0a26184ed8ba15a88c6b7829f3
 1-13 공유를 위한 기초작업
 
 1-14 배포해보기
+
+https://deokdam.spartacodingclub.kr/HeMXnhimoJIE/index.html
