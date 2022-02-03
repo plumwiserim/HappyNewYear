@@ -1,6 +1,10 @@
 # HappyNewYear
 [스파르타 코딩클럽] 덕담 공유 코딩 패키지
 
+강의자료
+
+https://teamsparta.notion.site/f62f5a0a26184ed8ba15a88c6b7829f3
+
 0-1 스파르타 튜토리얼
 
 1-1 오늘 배울 것
